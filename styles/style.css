@@ -6,10 +6,10 @@
 .interactable{
     width: 100%;
     height: 40%;
-    color: blue;
+    background-color: blue;
 }
 .noneditable{
     width: 100%;
     height: 40%;
-    color: green;
+    background-color: green;
 }
